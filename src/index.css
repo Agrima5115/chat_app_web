@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  .message {
+    padding: 10px;
+    margin: 5px;
+  }
+  .message.user {
+    background-color: #d1e7dd;
+  }
+  .message.bot {
+    background-color: #f8d7da;
+  }
+  
